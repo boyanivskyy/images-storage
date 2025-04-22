@@ -11,7 +11,7 @@ Simple and effective API for saving image references, written in Rust.
 
 Images Storage API - it's a simple and fast service for saving and managing images
 
-## 🛠️ Встановлення
+## 🛠️ Setup
 
 1. Clone repo:
 
